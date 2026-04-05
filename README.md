@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" />
 </p>
+---
+
 # 💫 About Me:
 👨‍💻 MERN Stack Developer | ☁️ Cloud Associate & Intune Administrator | 🔌 IoT & AI Systems  
 🔭 Working on: AI Assistant / Automation Projects  
