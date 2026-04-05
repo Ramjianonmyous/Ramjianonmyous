@@ -7,8 +7,13 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ram_ji_madboy) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://ramjianonmyous.github.io/My_Portfolio/) 
+[![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=adobeacrobatreader&logoColor=white)](https://ramjianonmyous.github.io/My_Portfolio/resume.pdf) 
+[![Blog](https://img.shields.io/badge/Blog-%230A66C2.svg?logo=hashnode&logoColor=white)](YOUR_BLOG_LINK) 
+[![Hydrosoln](https://img.shields.io/badge/Hydrosoln-%2300C853.svg?logo=google-chrome&logoColor=white)](YOUR_HYDROSOLN_LINK)  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-kaithwas-329419257/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ram_ji_madboy) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ram-Kaithwas-2) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Ram-Kaithwas) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramjikaithwas@gmail.com)
