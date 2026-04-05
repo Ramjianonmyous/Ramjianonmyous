@@ -4,16 +4,6 @@
 🌱 Learning: Advanced Cloud & System Design  
 👯 Looking to collaborate on: MERN + AI + IoT Projects  
 
-## 📊 Profile Summary  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramjianonmyous&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramjianonmyous&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramjianonmyous&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramjianonmyous&theme=tokyonight&utcOffset=5.5" />
-</p>
 ---
 
 ## 🌐 Links:
@@ -81,17 +71,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=anuraghazra&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
 ---
 
 ## 🐍 Contribution Snake  
@@ -111,6 +90,18 @@
 </p>
 ---
 
+## 📊 Profile Summary  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramjianonmyous&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramjianonmyous&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramjianonmyous&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramjianonmyous&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
 ## ⚡ Fun Fact  
 🚀 I love building real-world tech — from dashboards to AI-powered robots 🤖  
 
