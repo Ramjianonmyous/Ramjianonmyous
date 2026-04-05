@@ -35,12 +35,12 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramjianonmyous&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ramjianonmyous&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=anuraghazra&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramjianonmyous&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramjianonmyous&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 </p>
 
 ---
