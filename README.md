@@ -12,7 +12,7 @@
 
 ## 🌐 Links:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://ramjianonmyous.github.io/My_Portfolio/) 
-[![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=adobeacrobatreader&logoColor=white)](https://ramjianonmyous.github.io/My_Portfolio/resume.pdf) 
+[![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=adobeacrobatreader&logoColor=white)](https://github.com/Ramjianonmyous/Portfolio_2.0/blob/main/MERN_CLOUD.pdf) 
 [![Blog](https://img.shields.io/badge/Blog-%230A66C2.svg?logo=hashnode&logoColor=white)](https://ramjianonmyous.github.io/Personal_Blog/) 
 [![Hydrosoln](https://img.shields.io/badge/Hydrosoln-%2300C853.svg?logo=google-chrome&logoColor=white)](https://hydro-defend-solution.vercel.app/)  
 ## 🌐 Socials:
