@@ -13,11 +13,8 @@
 ## 🌐 Links:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2-0-kohl-five.vercel.app/)
-
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://ramjianonmyous.github.io/My_Portfolio/resume.pdf)
-
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=hashnode&logoColor=white)](https://reviewhub-gamma.vercel.app/)
-
 [![Hydrosoln](https://img.shields.io/badge/Hydrosoln-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hydro-defend-solution.vercel.app/) 
 
 ## 🌐 Socials:
