@@ -11,10 +11,15 @@
 ---
 
 ## 🌐 Links:
-[![Portfolio](https://portfolio-2-0-kohl-five.vercel.app/) 
-[![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=adobeacrobatreader&logoColor=white)](https://ramjianonmyous.github.io/My_Portfolio/resume.pdf) 
-[![Blog](https://reviewhub-gamma.vercel.app/) 
-[![Hydrosoln](https://img.shields.io/badge/Hydrosoln-%2300C853.svg?logo=google-chrome&logoColor=white)](https://hydro-defend-solution.vercel.app/)  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2-0-kohl-five.vercel.app/)
+
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://ramjianonmyous.github.io/My_Portfolio/resume.pdf)
+
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=hashnode&logoColor=white)](https://reviewhub-gamma.vercel.app/)
+
+[![Hydrosoln](https://img.shields.io/badge/Hydrosoln-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hydro-defend-solution.vercel.app/) 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-kaithwas-329419257/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ram_ji_madboy) 
